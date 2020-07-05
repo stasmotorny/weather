@@ -1,0 +1,38 @@
+.text-field-custom>div>fieldset {
+    border-color: white;
+}
+
+.text-field-custom>label {
+    color: white;
+}
+
+.text-field-custom>div>input {
+    color: white;
+}
+
+.text-field-custom>div:hover>.MuiOutlinedInput-notchedOutline {
+    border-color: yellow;
+}
+
+.text-field-custom>div>input:focus~.MuiOutlinedInput-notchedOutline {
+    border-color: red;
+}
+
+.text-field-custom>div>div>button {
+    color: white;
+}
+
+#cityChoise>button {
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
+
+#cityChoise>div {
+    width: 300px;
+}
+
+@media (max-width: 420px) {
+    #cityChoise>div {
+        width: 100%;
+    }
+}
