@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/weather/static/css/main.e5f1bbaf.chunk.css",
+    "main.js": "/weather/static/js/main.714c39b0.chunk.js",
+    "main.js.map": "/weather/static/js/main.714c39b0.chunk.js.map",
+    "runtime-main.js": "/weather/static/js/runtime-main.d777cdb5.js",
+    "runtime-main.js.map": "/weather/static/js/runtime-main.d777cdb5.js.map",
+    "static/js/2.61136f7c.chunk.js": "/weather/static/js/2.61136f7c.chunk.js",
+    "static/js/2.61136f7c.chunk.js.map": "/weather/static/js/2.61136f7c.chunk.js.map",
+    "index.html": "/weather/index.html",
+    "precache-manifest.076cf3c68f1a208a8b2b5c2d23f72b37.js": "/weather/precache-manifest.076cf3c68f1a208a8b2b5c2d23f72b37.js",
+    "service-worker.js": "/weather/service-worker.js",
+    "static/css/main.e5f1bbaf.chunk.css.map": "/weather/static/css/main.e5f1bbaf.chunk.css.map",
+    "static/js/2.61136f7c.chunk.js.LICENSE.txt": "/weather/static/js/2.61136f7c.chunk.js.LICENSE.txt",
+    "static/media/OvercastClouds.db5b0673.svg": "/weather/static/media/OvercastClouds.db5b0673.svg",
+    "static/media/App.css": "/weather/static/media/background.f09c68ec.jpg",
+    "static/media/barometer.dd7a0be9.svg": "/weather/static/media/barometer.dd7a0be9.svg",
+    "static/media/clear.347a5204.svg": "/weather/static/media/clear.347a5204.svg",
+    "static/media/clouds.2e0b4ef6.svg": "/weather/static/media/clouds.2e0b4ef6.svg",
+    "static/media/fewClouds.89d8703b.svg": "/weather/static/media/fewClouds.89d8703b.svg",
+    "static/media/humidity.c14731bb.svg": "/weather/static/media/humidity.c14731bb.svg",
+    "static/media/rain.9b743333.svg": "/weather/static/media/rain.9b743333.svg",
+    "static/media/snow.7647ba3d.svg": "/weather/static/media/snow.7647ba3d.svg",
+    "static/media/thunderstorm.99a877c7.svg": "/weather/static/media/thunderstorm.99a877c7.svg",
+    "static/media/wind.c04e2d5d.svg": "/weather/static/media/wind.c04e2d5d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d777cdb5.js",
+    "static/js/2.61136f7c.chunk.js",
+    "static/css/main.e5f1bbaf.chunk.css",
+    "static/js/main.714c39b0.chunk.js"
+  ]
+}
