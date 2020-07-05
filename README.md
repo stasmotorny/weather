@@ -1,2 +1,2 @@
 # weather
-https://github.com/stasmotorny/weather/index.html
+https://stasmotorny.github.io/weather/index.html
