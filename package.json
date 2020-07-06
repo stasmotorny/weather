@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "main": "src/app.js",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://reaweapp.herokuapp.com/",
