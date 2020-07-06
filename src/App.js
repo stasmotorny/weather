@@ -19,7 +19,7 @@ class App extends Component {
     console.log('before loading', this.state)
     e.preventDefault();
     try {
-      let response = await fetch('https://api.openweathermap.org/data/2.5/weather?q=' + this.state.myCity + ',ua&units=metric&APPID=b40640de9322c8facb1fcb9830e8b1f4');
+      let response = await fetch('https://cors-anywhere.herokuapp.com/http://api.openweathermap.org/data/2.5/weather?q=' + this.state.myCity + ',ua&units=metric&APPID=b40640de9322c8facb1fcb9830e8b1f4');
       let data = await response.json();
       console.log('data: ', data);
       this.setState({
